@@ -7,11 +7,35 @@
 h1 {
   text-align: center;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 p {
   text-align: center;
   width: 80%;
   margin-left: 10%;
+}
+
+.project {
+  text-align: center;
+}
+
+.ajust {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container {
+  text-align: center;
 }
